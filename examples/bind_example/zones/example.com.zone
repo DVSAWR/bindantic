@@ -1,0 +1,12 @@
+@                                                     SOA ns1.example.com. admin.example.com. (
+                                                                 2024010101 ; Serial number (YYYYMMDDNN)
+                                                                 10800      ; Refresh time
+                                                                 3600       ; Retry time
+                                                                 604800     ; Expire time
+                                                                 3600       ; Minimum TTL
+                                                      )
+@                                                IN   NS         ns1.example.com.
+@                                                IN   NS         ns2.example.com.
+@                                                IN   MX         10 mail.example.com.
+@                                                IN   A          192.168.1.1
+@                                                IN   TXT        "v=spf1 mx ~all"
