@@ -4,6 +4,7 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/bindantic)](https://pypi.org/project/bindantic/)
 [![License](https://img.shields.io/github/license/DVSAWR/bindantic)](LICENSE)
 [![Coverage](https://img.shields.io/badge/coverage-96%25-brightgreen)](htmlcov/index.html)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/bindantic?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/bindantic)
 
 **bindantic** - a library for managing **[BIND9](https://bind9.readthedocs.io/en/latest/reference.html)** DNS server configuration via **[Pydantic](https://github.com/pydantic/pydantic)** models.
 
